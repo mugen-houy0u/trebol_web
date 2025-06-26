@@ -1,0 +1,49 @@
+:root {
+  --scheme-brand-100: #000d06;
+  --scheme-brand-200: #041b12;
+  --scheme-brand-300: #2e463b;
+  --scheme-brand-400: #496155;
+  --scheme-brand-500: #627b6f;
+  --scheme-brand-600: #829c8f;
+  --scheme-brand-600-10: rgba(130,156,143,0.1);
+  --scheme-brand-600-30: rgba(130,156,143,0.3);
+  --scheme-brand-600-50: rgba(130,156,143,0.5);
+  --scheme-brand-700: #a1bcae;
+  --scheme-brand-800: #c0dcce;
+  --scheme-brand-900: #cde9db;
+  --scheme-brand-1000: #daf6e8;
+  --scheme-brand-1100: #e1fdef;
+  --scheme-brand-1200: #e7fff5;
+
+  --scheme-accent-100: #020c06;
+  --scheme-accent-200: #0c1912;
+  --scheme-accent-300: #35443c;
+  --scheme-accent-400: #505f56;
+  --scheme-accent-500: #697970;
+  --scheme-accent-600: #8a9a90;
+  --scheme-accent-600-10: rgba(138,154,144,0.1);
+  --scheme-accent-600-30: rgba(138,154,144,0.3);
+  --scheme-accent-600-50: rgba(138,154,144,0.5);
+  --scheme-accent-700: #a8b9af;
+  --scheme-accent-800: #c8d9cf;
+  --scheme-accent-900: #d5e6dc;
+  --scheme-accent-1000: #e2f4e9;
+  --scheme-accent-1100: #e9faf0;
+  --scheme-accent-1200: #ecfef3;
+
+  --scheme-neutral-100: #090909;
+  --scheme-neutral-200: #161616;
+  --scheme-neutral-300: #404040;
+  --scheme-neutral-400: #5b5b5b;
+  --scheme-neutral-500: #777777;
+  --scheme-neutral-600: #959595;
+  --scheme-neutral-600-10: rgba(149,149,149,0.1);
+  --scheme-neutral-600-30: rgba(149,149,149,0.3);
+  --scheme-neutral-600-50: rgba(149,149,149,0.5);
+  --scheme-neutral-700: #b4b4b4;
+  --scheme-neutral-800: #d4d4d4;
+  --scheme-neutral-900: #e1e1e1;
+  --scheme-neutral-1000: #eeeeee;
+  --scheme-neutral-1100: #f5f5f5;
+  --scheme-neutral-1200: #fcfcfc;
+}

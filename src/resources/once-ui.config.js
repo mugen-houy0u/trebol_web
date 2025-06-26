@@ -234,5 +234,6 @@ const sameAs = {
   discord: "https://discord.com/invite/5EyAQ4eNdS",
 };
 
-export { display, mailchimp, routes, protectedRoutes, baseURL, fonts, style, schema, sameAs, effects, dataStyle, colors };
+export { display, mailchimp, routes, protectedRoutes, baseURL, fonts, style, colors, schema, sameAs, effects, dataStyle };
+
 
